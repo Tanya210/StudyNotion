@@ -143,7 +143,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ udit_katyal © 2024 Edusoft</div>
+          <div className="text-center">Made with ❤️ Tanya Popli © 2024 Edusoft</div>
         </div>
       </div>
     </div>

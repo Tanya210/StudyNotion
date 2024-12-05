@@ -8,13 +8,13 @@ const contactDetails = [
     icon: "HiChatBubbleLeftRight",
     heading: "Chat on us",
     description: "Our friendly team is here to help.",
-    details: "workuditkatyal@gmail.com",
+    details: "tanyatanu2106@gmail.com",
   },
   {
     icon: "BiWorld",
     heading: "Visit us",
     description: "Come and say hello at our office HQ.",
-    details: "West Patel Nagar 32nd Block 1st Cross, Delhi-110008",
+    details: "Rani Bagh, Delhi-110034",
   },
   {
     icon: "IoCall",

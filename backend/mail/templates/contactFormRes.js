@@ -82,7 +82,7 @@ exports.contactUsEmail = (email, firstname, lastname, message, phoneNo, countryc
                 <p>We appreciate your interest and will get back to you shortly. </p>
             </div>
             <div class="support">If you have any further questions or need immediate assistance, please feel free to reach
-                out to us at <a href="mailto:workuditkatyal@gmail.com">workuditkatyal@gmail.com</a>. We are here to help!</div>
+                out to us at <a href="mailto:tanyatanu2106@gmail.com">tanyatanu2106@gmail.com</a>. We are here to help!</div>
         </div>
     </body>
     
